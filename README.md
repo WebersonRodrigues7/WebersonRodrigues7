@@ -31,7 +31,7 @@ Me chamo Weberson, tenho 17 anos e sou de Cruzeiro, São Paulo. Estou concluindo
     title="DataScience"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/data-science-icon.png" 
+    src="https://cdn-icons-png.freepik.com/512/8649/8649626.png?ga=GA1.1.869431804.1754154943" 
 />
 <img 
     align="left" 
