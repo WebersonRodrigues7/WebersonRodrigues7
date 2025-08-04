@@ -58,7 +58,7 @@ Me chamo Weberson, tenho 17 anos e sou de Cruzeiro, São Paulo. Estou concluindo
 <p>
   <img 
     align="left" 
-    alt="GitHub Stat" 
+    alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=WebersonRodrigues7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
