@@ -4,7 +4,6 @@
 
 Me chamo Weberson, tenho 17 anos e sou de Cruzeiro, São Paulo. Estou concluindo o ensino médio na ETEC, com o curso técnico em Edificações. Brevemente, pretendo fazer ADS na FATEC.
 <p align="left">
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -60,6 +59,6 @@ Me chamo Weberson, tenho 17 anos e sou de Cruzeiro, São Paulo. Estou concluindo
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebersonRodrigues7&theme=dark&show_icons=true&hide_border=true&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebersonRodrigues7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
   />
 </p>
