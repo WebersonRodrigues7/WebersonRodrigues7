@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Backend`**
 
-Bem-vindo ao meu GitHub.
+<h2>Bem-vindo ao meu GitHub.</h2>
+
 Desenvolvo APIs REST utilizando Node.js e NestJS, com criação de CRUDs, integração com banco de dados, autenticação baseada em JWT, proteção básica de rotas e organização de código em camadas
 <p align="left">
 ---
