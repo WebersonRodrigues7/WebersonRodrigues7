@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Weberson Rodrigues
 
 **`Desenvolvedor Backend`**
-
-Me chamo Weberson, tenho 17 anos e sou de Cruzeiro, São Paulo. Estou concluindo o ensino médio na ETEC, com o curso técnico em Edificações. Brevemente, pretendo fazer ADS na FATEC.
+Bem-vindo ao meu GitHub.
+Desenvolvo APIs REST utilizando Node.js e NestJS, com criação de CRUDs, integração com banco de dados, autenticação baseada em JWT, proteção básica de rotas e organização de código em camadas
 <p align="left">
 ---
 
