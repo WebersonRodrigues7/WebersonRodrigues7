@@ -48,6 +48,6 @@ Me chamo Weberson, tenho 17 anos e sou de Cruzeiro, São Paulo. Estou concluindo
 
 <p> 
     <a href="webersongiovani@gmail.com">
-        <img src="https://camo.githubusercontent.com/306b9dc……2d74686…" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
