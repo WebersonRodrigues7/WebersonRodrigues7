@@ -8,7 +8,7 @@ Desenvolvo APIs REST utilizando Node.js e NestJS, com criação de CRUDs, integr
 <p align="left">
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Ferramentas
 
 <img 
     align="left" 
