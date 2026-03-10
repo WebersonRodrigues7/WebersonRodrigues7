@@ -10,7 +10,6 @@ Olá! Sou desenvolvedor com foco em backend, atualmente expandindo para o fronte
 - 🔭 Atualmente trabalhando em projetos de **APIs REST com NestJS**
 - 🌱 Aprendendo **React** e expandindo para o fullstack
 - 🎯 Objetivo: atuar como **desenvolvedor full-stack**
-- ⚡ 17 anos 
 
 ---
 
