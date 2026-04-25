@@ -1,49 +1,38 @@
-# 👨‍💻 Weberson Rodrigues
-**`Desenvolvedor Backend em formação`**
+👨‍💻 Weberson Rodrigues
+<div align="center"> <img src="https://skillicons.dev/icons?i=ts" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nestjs" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nextjs" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=react" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nodejs" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=mysql" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=git" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=html" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="60" /> </div>
+<div align="center"> <a href="mailto:webersongiovani@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/weberson-giovani-226792377/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
 
-Olá! Sou desenvolvedor com foco em backend, atualmente expandindo para o frontend com React. Desenvolvo APIs REST utilizando NestJS e TypeScript, com autenticação JWT, proteção de rotas, integração com banco de dados e boas práticas de desenvolvimento.
+Desenvolvedor Full Stack em formação
 
----
+Sou desenvolvedor com foco em construção de aplicações full stack, desenvolvendo APIs robustas com NestJS e TypeScript, além de interfaces modernas com React e Next.js.
 
-### 🚀 Sobre mim
+Tenho experiência prática no desenvolvimento completo de sistemas, incluindo autenticação JWT, proteção de rotas, integração com banco de dados e organização de código seguindo boas práticas.
 
-- 🔭 Atualmente trabalhando em projetos de **APIs REST com NestJS**
-- 🌱 Aprendendo **React** e expandindo para o fullstack
-- 🎯 Objetivo: atuar como **desenvolvedor full-stack**
+🚀 Sobre mim
+🔧 APIs REST com NestJS
+⚛️ Frontend com React e Next.js
+🔐 Autenticação com JWT
+🗄️ Banco de dados MySQL
+💈 Sistema completo de gerenciamento de barbearia
+🎯 Foco em evolução para Full Stack profissional
+📂 Projetos
+Projeto	Descrição	Stack
+💈 Barbershop Manager	Sistema completo de barbearia (agendamentos, clientes, serviços)	Next.js, React, NestJS, TypeScript, MySQL
+📋 Task Manager	Sistema de gerenciamento de tarefas com autenticação e CRUD completo	Next.js, React, NestJS, TypeScript, MySQL
+🎓 Enrollment Manager	Sistema de matrículas escolares com frontend integrado	Next.js, React, NestJS, TypeScript, MySQL
+🤖 Tecnologias
 
----
+<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-### 🤖 Linguagens e Ferramentas
+<br/> <br/>
+📊 Estatísticas
+<p> <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&theme=tokyonight&layout=compact&langs_count=6" /> </p>
+⚡ Diferencial
 
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="NestJS" title="NestJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<br/>
-<br/>
-
----
-
-### 📂 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Task Manager]() | API de gerenciamento de tarefas com CRUD completo e autenticação JWT | NestJS, TypeScript, SQL |
-| [Enrollment Manager]() | API de gerenciamento de matrículas escolares | NestJS, TypeScript, SQL |
-
----
-
-### 📬 Contato
-
-<a href="mailto:webersongiovani@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/weberson-giovani-226792377/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+Capacidade de desenvolver sistemas completos, do backend ao frontend, com foco em organização, segurança e escalabilidade.
