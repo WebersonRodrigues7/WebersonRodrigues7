@@ -15,12 +15,6 @@ Tenho experiência prática no desenvolvimento completo de sistemas, incluindo a
 🗄️ Banco de dados MySQL
 💈 Sistema completo de gerenciamento de barbearia
 🎯 Foco em evolução para Full Stack profissional
-📂 Projetos
-Projeto	Descrição	Stack
-💈 Barbershop Manager	Sistema completo de barbearia (agendamentos, clientes, serviços)	Next.js, React, NestJS, TypeScript, MySQL
-📋 Task Manager	Sistema de gerenciamento de tarefas com autenticação e CRUD completo	Next.js, React, NestJS, TypeScript, MySQL
-🎓 Enrollment Manager	Sistema de matrículas escolares com frontend integrado	Next.js, React, NestJS, TypeScript, MySQL
-🤖 Tecnologias
 
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
