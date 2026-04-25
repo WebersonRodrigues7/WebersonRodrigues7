@@ -8,13 +8,14 @@ Sou desenvolvedor com foco em construção de aplicações full stack, desenvolv
 
 Tenho experiência prática no desenvolvimento completo de sistemas, incluindo autenticação JWT, proteção de rotas, integração com banco de dados e organização de código seguindo boas práticas.
 
-🚀 Sobre mim
-🔧 APIs REST com NestJS
-⚛️ Frontend com React e Next.js
-🔐 Autenticação com JWT
-🗄️ Banco de dados MySQL
-💈 Sistema completo de gerenciamento de barbearia
-🎯 Foco em evolução para Full Stack profissional
+## 🚀 Sobre mim
+
+- 🔧 APIs REST com NestJS
+- ⚛️ Frontend com React e Next.js
+- 🔐 Autenticação com JWT
+- 🗄️ Banco de dados MySQL
+- 💈 Sistema de gerenciamento de barbearia
+- 🎯 Foco em Full Stack
 
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -26,7 +27,7 @@ Tenho experiência prática no desenvolvimento completo de sistemas, incluindo a
 
 <br/> <br/>
 📊 Estatísticas
-<p> <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&theme=tokyonight&layout=compact&langs_count=6" /> </p>
+<p> <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebersonRodrigues7&theme=tokyonight&layout=compact&langs_count=6" /> </p>
 ⚡ Diferencial
 
 Capacidade de desenvolver sistemas completos, do backend ao frontend, com foco em organização, segurança e escalabilidade.
