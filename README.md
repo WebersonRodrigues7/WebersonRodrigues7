@@ -10,11 +10,10 @@ Tenho experiência prática no desenvolvimento completo de sistemas, incluindo a
 
 ## 🚀 Sobre mim
 
-- 🔧 APIs REST com NestJS
+- 🔧 APIs REST com NestJS & NextJs
 - ⚛️ Frontend com React e Next.js
 - 🔐 Autenticação com JWT
-- 🗄️ Banco de dados MySQL
-- 💈 Sistema de gerenciamento de barbearia
+- 🗄️ Banco de dados 
 - 🎯 Foco em Full Stack
 
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
