@@ -1,7 +1,7 @@
 👨‍💻 Weberson Rodrigues
-<div align="center"> <img src="https://skillicons.dev/icons?i=ts" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nestjs" height="60" /> <img align="left" alt="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nextjs" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=react" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nodejs" height="60" /> <img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img align="left" alt="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=mysql" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=git" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=html" height="60" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="60" /> </div>
-<div align="center"> <a href="mailto:webersongiovani@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/weberson-giovani-226792377/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+<div align="center"><div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nestjs,express,nodejs,react,nextjs,prisma,postgres,mysql,git,html,css,aws" />
 
 Desenvolvedor Full Stack 
 
