@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nestjs,express,nodejs,react,nextjs,prisma,postgres,mysql,git,aws" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,aws,prisma,postgres,mysql,git" />
 
 </div>
 
