@@ -10,7 +10,7 @@ Tenho experiência prática no desenvolvimento completo de sistemas, incluindo a
 Com capacidade de desenvolver sistemas, do backend ao frontend, com foco em organização, segurança e escalabilidade.
 
 <br/> <br/>
-<a align="right" href="https://discord.com/users/749830097669718069"><img src="https://lanyard.kyrie25.dev/api/1083428777809432606?imgStyle=square" /></a> 
+<a align="right" href="https://discord.com/users/749830097669718069"></a>
 
 
 
