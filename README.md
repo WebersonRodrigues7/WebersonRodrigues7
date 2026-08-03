@@ -19,7 +19,7 @@
 
 **`Software Engineer`**
 
-Me chamo Weberson Rodrigues tenho 17 anos e atuo no desenvolvimento de APIs com **NestJS & Express**, integração com bancos de dados relacionais e criação de interfaces modernas com **React & Next.js**, continuo em constante evolução a cada dia nunca me prendendo a nada sempre com mente aberta para diversas técnologias!
+Me chamo Weberson Rodrigues tenho 17 anos e atuo no desenvolvimento de APIs com **NestJS & Express**, integração com bancos de dados relacionais e criação de interfaces modernas com **React & Next.js**, continuo em constante evolução a cada dia nunca me prendendo a nada sempre com mente aberta para diversas tecnologias!
 
 ---
 
