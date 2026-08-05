@@ -1,7 +1,7 @@
 <h1 align="center">Weberson Rodrigues</h1>
 
 <p align="center">
-  TypeScript - NestJs - NextJs - Infrastructure
+  TypeScript
 </p>
 
 ---
