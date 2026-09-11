@@ -10,20 +10,18 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nestjs,express,nextjs,react,kubernetes,aws,prisma,postgres,git" />
+<img src="https://skillicons.dev/icons?i=ts,nestjs,express,nextjs,react" />
 
 </div>
 
 ---
 
 
-**`Software Engineer`**
-
-Me chamo Weberson Rodrigues tenho 17 anos e atuo no desenvolvimento de APIs com **NestJS & Express**, integração com bancos de dados relacionais e criação de interfaces modernas com **React & Next.js**, continuo em constante evolução a cada dia nunca me prendendo a nada sempre com mente aberta para diversas tecnologias!
+**`Software Developer`**
 
 ---
 
-### 📫 Contato
+### Contato
 
 <div align="center">
 
