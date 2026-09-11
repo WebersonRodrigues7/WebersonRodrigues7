@@ -1,25 +1,42 @@
 <h1 align="center">Weberson Rodrigues</h1>
 
 <p align="center">
- <i> <strong> Software Developer </strong></i>
- </p>
+  <strong>Backend Developer</strong>
+</p>
 
-<div align="center">
+<p align="center">
+  TypeScript · Node.js · NestJS · PostgreSQL · Docker
+</p>
 
-<img src="https://skillicons.dev/icons?i=ts,nestjs,express,nextjs,react" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,react,nextjs,postgresql,prisma,docker,aws" />
+</p>
 
+<br>
 
+<p align="center">
+  <a href="https://webersongiovani.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/weberson-giovani">LinkedIn</a>
+  ·
+  <a href="mailto:webersongiovani@gmail.com">Email</a>
+</p>
 
-### Contato
+<br>
 
-<div align="center">
+<h3 align="center">About</h3>
 
-<a href="mailto:webersongiovani@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  Software developer focused on backend development with TypeScript and Node.js.<br>
+  I build REST APIs and full-stack applications with a focus on clean architecture,<br>
+  maintainability and reliable software.
+</p>
 
-<a href="https://www.linkedin.com/in/weberson-giovani">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<h3 align="center">Stack</h3>
 
-</div>
+<p align="center">
+  <strong>Backend:</strong> TypeScript · Node.js · NestJS · Express<br>
+  <strong>Frontend:</strong> React · Next.js<br>
+  <strong>Database:</strong> PostgreSQL · Prisma<br>
+  <strong>Infrastructure:</strong> Docker · Kubernetes · AWS · Linux
+</p>
