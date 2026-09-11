@@ -1,7 +1,7 @@
 <h1 align="center">Weberson Rodrigues</h1>
 
 <p align="center">
-  **`Software Developer`**
+ <i> <strong> Software Developer </strong></i>
  </p>
 
 <div align="center">
