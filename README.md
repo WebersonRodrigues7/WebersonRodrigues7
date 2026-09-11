@@ -4,22 +4,11 @@
   TypeScript
 </p>
 
----
-
-
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,nestjs,express,nextjs,react" />
 
-</div>
-
----
-
-
 **`Software Developer`**
-
----
 
 ### Contato
 
