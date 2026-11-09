@@ -8,4 +8,5 @@
     </a> 
     <a href="https://www.linkedin.com/in/weberson-giovani"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+   ![Profile Views](https://komarev.com/ghpvc/?username=WebersonRodrigues7&color=blue&style=flat)
   </div>
