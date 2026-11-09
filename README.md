@@ -5,10 +5,6 @@
   <i><strong>Software Developer</strong></i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WebersonRodrigues7&label=Profile%20Views&color=0077B5&style=flat-square" />
-</p>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nestjs,express,nextjs,react" />
 </div>
